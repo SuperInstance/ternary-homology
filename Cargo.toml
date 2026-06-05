@@ -1,0 +1,7 @@
+[package]
+name = "ternary-homology"
+version = "0.1.0"
+edition = "2021"
+description = "Simplicial homology in ternary space — chain complexes, boundary operators, Betti numbers over Z₃"
+license = "MIT"
+[dependencies]
